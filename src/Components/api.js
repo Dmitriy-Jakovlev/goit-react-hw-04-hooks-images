@@ -1,4 +1,4 @@
-const API_KEY = '9062055-da883187fb30391728e11f5fd';
+const API_KEY = '20675253-cdd8f56cc704bd20aa8c935fc';
 
 export const fetchImages = function (page, val) {
   return fetch(
